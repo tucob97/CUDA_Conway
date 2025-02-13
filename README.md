@@ -24,7 +24,7 @@ This repository contains an implementation of Conway's Game of Life using CUDA. 
 2. Compile and generate random grid of 0 & 1:  
    ```bash
    gcc -o generate_grid generate_grid.c
-   ./generate_grid initial_state.txt <N> // Square grid
+   ./generate_grid initial_state.txt <N>  #Square grid
    ```
 3. Compile using NVCC:  
    ```bash
