@@ -1,1 +1,1 @@
-*.cu linguist-language=C++
+*.cu whitespace=space-before-tab,indent-with-non-tab,trailing-space
