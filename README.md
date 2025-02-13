@@ -33,7 +33,3 @@ This repository contains an implementation of Conway's Game of Life using CUDA. 
    --verbose “print result in a .txt file”
    --check “(for "check_game_of_life.cu" version only) check the correctness of the result”
    ```  
-
-### 🐝 License  
-No license is set for this project.
-
