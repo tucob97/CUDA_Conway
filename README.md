@@ -21,7 +21,7 @@ This repository contains an implementation of Conway's Game of Life using CUDA. 
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
    ```
-2. Compile and generate random grid of 0 & 1:  
+2. Compile and generate NxN random grid of 0 & 1:  
    ```bash
    gcc -o generate_grid generate_grid.c
    ./generate_grid initial_state.txt <N>  #Square grid
