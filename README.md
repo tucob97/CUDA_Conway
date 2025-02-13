@@ -12,7 +12,7 @@ This repository contains an implementation of Conway's Game of Life using CUDA. 
 
 ### 🛠️ Requirements  
 - CUDA-enabled GPU  
-- NVIDIA CUDA Toolkit  
+- NVIDIA CUDA Toolkit  (Tested with CUDA v10.1)
 - C++ Compiler with CUDA support  
 
 ### 🔧 Compilation & Execution
