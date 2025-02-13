@@ -28,7 +28,7 @@ This repository contains an implementation of Conway's Game of Life using CUDA. 
    ```
 3. Compile using NVCC:  
    ```bash
-   nvcc -o game_of_life main.cu
+   nvcc -o game_of_life check_game_of_life.cu  #Or substitute with <version_type>.cu  
    ```
 4. Run the program:  
    ```bash
