@@ -27,7 +27,11 @@ This repository contains an implementation of Conway's Game of Life using CUDA. 
    ```
 3. Run the program:  
    ```bash
-   ./game_of_life
+   ./game_of_life <initial_state> <grid-size> <BlockDim> <Num-of-generations> --options
+   
+   list options
+   --verbose “print result in a .txt file”
+   --check “(for "check_game_of_life.cu" version only) check the correctness of the result”
    ```  
 
 ### 🐝 License  
