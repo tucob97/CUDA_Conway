@@ -18,8 +18,8 @@ This repository contains an implementation of Conway's Game of Life using CUDA. 
 ### 🔧 Compilation & Execution
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/tucob97/CUDA_Conway.git
+   cd CUDA_Conway
    ```
 2. Compile and generate NxN random grid of 0 & 1:  
    ```bash
