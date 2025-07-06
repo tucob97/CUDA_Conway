@@ -45,3 +45,10 @@ This repository contains multiple implementations of Conway's Game of Life using
 Some images and diagrams used in `presentation.pdf` were taken or adapted from publicly available online sources, including technical blogs and documentation. These are included strictly for **educational, non-commercial purposes**.
 
 If you are the owner of any content and would like it removed or credited differently, please open an issue.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+**Note:** This license applies to the source code in this repository, not to external resources used in `presentation.pdf`.
+
