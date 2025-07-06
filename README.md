@@ -3,7 +3,7 @@
 ## Conway's Game of Life in CUDA  
 
 This repository contains multiple implementations of Conway's Game of Life using CUDA. The program leverages GPU parallelism to efficiently compute the evolution of cellular automata. For a detailed explanation of each technique and their performance comparison, see the
-presentation.pdf.
+`presentation.pdf`.
 
 ### Features  
 - GPU-accelerated execution using CUDA  
@@ -38,4 +38,10 @@ presentation.pdf.
    list options
    --verbose #print result in a .txt file with other statistics
    --check #(for "check_game_of_life.cu" version only) check the correctness of the result
-   ```  
+   ```
+
+### 📌 Note on External Content
+
+Some images and diagrams used in `presentation.pdf` were taken or adapted from publicly available online sources, including technical blogs and documentation. These are included strictly for **educational, non-commercial purposes**.
+
+If you are the owner of any content and would like it removed or credited differently, please open an issue.
