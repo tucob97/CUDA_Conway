@@ -4,18 +4,18 @@
 
 This repository contains an implementation of Conway's Game of Life using CUDA. The program leverages GPU parallelism to efficiently compute the evolution of cellular automata.  
 
-### 🚀 Features  
+### Features  
 - GPU-accelerated execution using CUDA  
 - Efficient parallel processing for large grids  
 - Simple and fast implementation of Conway's Game of Life  
 - Uses a square grid with finite borders (no toroidal topology)  
 
-### 🛠️ Requirements  
+### Requirements  
 - CUDA-enabled GPU  
 - NVIDIA CUDA Toolkit  (Tested with CUDA v10.1)
 - C++ Compiler with CUDA support  
 
-### 🔧 Compilation & Execution
+### Compilation & Execution
 1. Clone the repository:  
    ```bash
    git clone https://github.com/tucob97/CUDA_Conway.git
